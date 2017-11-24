@@ -1,5 +1,6 @@
 = Redmine
 
-Redmine is a flexible project management web application written using Ruby on Rails framework.
+To start redmine. run the following line
+cd /home/josep/usr/redmine/
+sudo bundle exec puma --config config/puma.rb
 
-More details can be found in the doc directory or on the official website http://www.redmine.org
