@@ -1,6 +1,6 @@
 = Redmine
 
-To start redmine. run the following line__
-cd /home/josep/usr/redmine/__
-sudo bundle exec puma --config config/puma.rb__
+To start redmine. run the following line <br />
+cd /home/josep/usr/redmine/ <br />
+sudo bundle exec puma --config config/puma.rb <br />
 
